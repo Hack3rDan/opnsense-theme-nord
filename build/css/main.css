@@ -1162,7 +1162,7 @@ body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.428571429;
-  color: #3C3C3B;
+  color: #ECEFF4;
   background-color: #fff;
 }
 
@@ -2759,7 +2759,7 @@ input[type=color] {
   font-size: 14px;
   line-height: 1.428571429;
   color: #555555;
-  background-color: #fff;
+  background-color: #2e3440;
   background-image: none;
   border: 1px solid #ccc;
   border-radius: 3px;
@@ -2912,7 +2912,7 @@ input[type=month] {
   line-height: 1.428571429 \0 ;
 }
 input[type=date].input-sm, .input-group-sm > input[type=date].form-control,
-.input-group-sm > input[type=date].input-group-addon,
+.input-group-sm > input[type=date].2e3440input-group-addon,
 .input-group-sm > .input-group-btn > input[type=date].btn, .form-horizontal .form-group-sm input[type=date].form-control,
 input[type=time].input-sm,
 .input-group-sm > input[type=time].form-control,
@@ -6698,7 +6698,7 @@ button.close {
 html, body {
   height: 100%;
   font-family: "SourceSansProRegular";
-  background-color: #FFF;
+  background-color: #2e3440;
 }
 
 body {
@@ -6711,7 +6711,7 @@ body {
 }
 
 .page-head {
-  background: #3C3C3B;
+  background: #434c5e;
   top: 0;
   left: 0;
   position: fixed;
